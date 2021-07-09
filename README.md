@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pooriazmn
-- 👀 I’m interested in algorithms, backend development, and cloud environments
+- 👀 I’m interested in algorithms, backend development and cloud environments
 - 🌱 I’m currently learning about online algortihms mostly as an M.Sc. student at [UoM](https://umanitoba.ca) and [GADA Lab](http://www.cs.umanitoba.ca/~gada/)
 - 💞️ I’m looking to collaborate on anything related to my interests
 - 📫 Reach me by pooriazmn@gmail.com
