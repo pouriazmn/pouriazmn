@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything related to my interests
 - 📫 Reach me by pooriazmn@gmail.com
 
-I am currently looking for a part-time job reach me out if you are looking for a software engineer.
 
 <!---
 pooriazmn/pooriazmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
