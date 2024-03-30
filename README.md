@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pooriazmn
-- 👀 I’m interested in algorithms, backend development and cloud environments
-- 🌱 I’m currently learning about online algortihms as an M.Sc. student at [UoM](https://umanitoba.ca) and [GADA Lab](http://www.cs.umanitoba.ca/~gada/)
-- 💞️ I’m looking to collaborate on anything related to my interests
+- 👋 Hi, I’m Pouria,
+- 👀 I’m interested in algorithms, cloud environments, and distributed computing.
+- 🌱 I have finished my Master's degree in computer science at [UoM](https://umanitoba.ca) and [GADA Lab](http://www.cs.umanitoba.ca/~gada/)
+- 💞️ I’m looking to collaborate on anything related to my interests.
 - 📫 Reach me by pooriazmn@gmail.com
 
 
